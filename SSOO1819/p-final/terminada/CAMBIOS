@@ -1,0 +1,2 @@
+poner las cabeceras en el .h y el el .c el cuerpo de las funciones
+gcc -o sh sh.c libreria.c -Wall -Wshadow -g

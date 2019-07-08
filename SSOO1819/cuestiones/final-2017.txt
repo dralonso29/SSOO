@@ -1,0 +1,6 @@
+Pregunta 9 -> d
+Pregunta 8 -> b
+Pregunta 10 -> d (si fuese con sizeof en vez de strlen, serian los 32 bytes)
+Pregunta 2 -> e
+Pregunta 4 -> c
+
